@@ -1,0 +1,14 @@
+{
+  "name": "foxintelligence",
+  "version": "1.0.0",
+  "description": "technical test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Andurand",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^11.12.0"
+  }
+}
