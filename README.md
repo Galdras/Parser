@@ -1,10 +1,11 @@
 # Parser
 
+## Description
 Parser to convert HTML SNCF file to JSON file
 
-How to use : 
+## Setup
+npm run install
 
-npm -i
-
+## How to use
 node ./parser.js input.html output.json
 
